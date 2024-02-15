@@ -14,7 +14,7 @@ HTML structure is called a declarative language. HTML is simple, resilinent and 
 <li>Tags work together to define elements, which are like packages containing content.</li>
 <li>Some elements, like paragraphs, require both opening and closing tags.<br></li>
 <li>HTML markup gives meaning to content and helps computers understand it.</li>
-<li>HTML elements can be nested within each other.</li>
+<li>HTML elements can be nested within each other.</li><hr>
 <li>HTML serves as a bridge between human and computer worlds.</li>
 <li>An entire HTML document consists of nested HTML elements.</li>
 <li>Nesting creates a tree structure like a family tree with parents, children, and siblings</li>
