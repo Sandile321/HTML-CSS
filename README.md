@@ -1,4 +1,4 @@
-<i>Since Monday, 12 February 2024
+<i>Since Monday, 12 February 2024</i>
 <h2>HTML Intro:</h2>
 
 HTML is responsible for marking up the content of a website.
@@ -8,7 +8,7 @@ HTML structure is called a declarative language. HTML is simple, resilinent and 
 
 <ul>
 <li>HTML is a language used for structuring web pages.</li>
-<li>>It utilizes tags enclosed in less-than and greater-than symbols to mark different elements.</li>
+<li>It utilizes tags enclosed in less-than and greater-than symbols to mark different elements.</li>
 <li>Tags include opening tags and closing tags.</li>
 <li>Example: Opening tag for a paragraph is , closing tag is.</li>
 <li>Tags work together to define elements, which are like packages containing content.</li>
