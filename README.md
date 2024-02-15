@@ -10,7 +10,7 @@ HTML structure is called a declarative language.<br> HTML is simple, resilinent 
 <li>HTML is a language used for structuring web pages.</li>
 <li>It utilizes tags enclosed in less-than and greater-than symbols to mark different elements.</li>
 <li>Tags include opening tags and closing tags.</li>
-<li>Example: Opening tag for a paragraph is <p>.</p>, closing tag is.</li>
+<li>Example: Opening tag for a paragraph is , closing tag is.</li>
 <li>Tags work together to define elements, which are like packages containing content.</li>
 <li>Some elements, like paragraphs, require both opening and closing tags.<br></li>
 <li>HTML markup gives meaning to content and helps computers understand it.</li>
