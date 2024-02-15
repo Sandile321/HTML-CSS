@@ -6,7 +6,7 @@ HTML structure is called a declarative language.<br> HTML is simple, resilinent 
 
 <h2>Text Formatting:</h2>
 
-<ul>
+<ol>
 <li>HTML is a language used for structuring web pages.</li>
 <li>It utilizes tags enclosed in less-than and greater-than symbols to mark different elements.</li>
 <li>Tags include opening tags and closing tags.</li>
@@ -28,4 +28,4 @@ HTML structure is called a declarative language.<br> HTML is simple, resilinent 
 <li>Proper HTML structure enhances accessibility and usability</li>
 <li>HTML elements organize content for effective presentation.</li>
 <li></li>
-</ul>
+</ol>
