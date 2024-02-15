@@ -2,7 +2,7 @@
 <h2>HTML Intro:</h2>
 
 HTML is responsible for marking up the content of a website.
-HTML structure is called a declarative language. HTML is simple, resilinent and robustness. HTML  is capabble of fixing code errors, and missing or mispelled elements<br>
+HTML structure is called a declarative language. HTML is simple, resilinent and robustness. HTML  is capabble of fixing code errors, and missing or mispelled elements<hr>
 
 <h2>Text Formatting:</h2>
 
