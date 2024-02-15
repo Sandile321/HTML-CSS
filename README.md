@@ -5,8 +5,8 @@ HTML is responsible for marking up the content of a website.
 HTML structure is called a declarative language. HTML is simple, resilinent and robustness. HTML  is capabble of fixing code errors, and missing or mispelled elements
 
 <h2>Text Formatting:</h2>
-HTML is a language used for structuring web pages.
-It utilizes tags enclosed in less-than and greater-than symbols to mark different elements.
+HTML is a language used for structuring web pages.<br>
+It utilizes tags enclosed in less-than and greater-than symbols to mark different elements.<brS>
 Tags include opening tags and closing tags.
 Example: Opening tag for a paragraph is <p>, closing tag is </p>.
 Tags work together to define elements, which are like packages containing content.
