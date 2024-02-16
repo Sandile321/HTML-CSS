@@ -26,5 +26,5 @@ HTML structure is called a declarative language.<br> HTML is simple, resilinent 
 <li>The DOM tree shows how elements are related.</li>
 <li>Understanding HTML syntax is fundamental for web development</li>
 <li>Proper HTML structure enhances accessibility and usability</li>
-<li>HTML elements organize content for effective presentation.</li>
+<li>HTML elements <em>organize content for effective presentation.</em></li>
 </ul>
