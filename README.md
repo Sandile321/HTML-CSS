@@ -31,8 +31,7 @@ HTML structure is called a declarative language.<br> HTML is simple, resilinent 
 
 <h1>HTML Capabilities</h1>
   <ul>
-  <li>Semantic Elements: HTML provides semantic elements like `<header>
-    `, `<footer>`, `<nav>`, `<article>`, `<section>`, etc., which describe the purpose of the content, aiding accessibility and SEO.</li>
+  <li>Semantic Elements: HTML provides semantic elements like ~<header>~, `<footer>`, `<nav>`, `<article>`, `<section>`, etc., which describe the purpose of the content, aiding accessibility and SEO.</li>
   <li>Text Formatting: HTML allows you to format text using elements like `<strong>`, `<em>`, `<u>`, `<s>`, `<sub>`, `<sup>`, etc.</li>
   <li>Hyperlinks: HTML enables the creation of hyperlinks using the `<a>` element to link to other web pages, resources, or locations on the same page.</li>
   <li>Images and Multimedia: HTML supports embedding images (`<img>`), audio (`<audio>`), and video (`<video>`) content into web pages.</li>
