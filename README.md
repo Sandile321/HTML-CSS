@@ -28,3 +28,35 @@ HTML structure is called a declarative language.<br> HTML is simple, resilinent 
 <li>Proper HTML structure enhances accessibility and usability</li>
 <li>HTML elements <em>organize content for effective presentation.</em></li>
 </ul>
+
+Certainly! Here are HTML capabilities summarized in 15 points:
+
+1. **Markup Language**: HTML (Hypertext Markup Language) is used for structuring and presenting content on the web.
+
+2. **Semantic Elements**: HTML provides semantic elements like `<header>`, `<footer>`, `<nav>`, `<article>`, `<section>`, etc., which describe the purpose of the content, aiding accessibility and SEO.
+
+3. **Text Formatting**: HTML allows you to format text using elements like `<strong>`, `<em>`, `<u>`, `<s>`, `<sub>`, `<sup>`, etc.
+
+4. **Hyperlinks**: HTML enables the creation of hyperlinks using the `<a>` element to link to other web pages, resources, or locations on the same page.
+
+5. **Images and Multimedia**: HTML supports embedding images (`<img>`), audio (`<audio>`), and video (`<video>`) content into web pages.
+
+6. **Lists**: HTML offers ordered (`<ol>`) and unordered (`<ul>`) lists along with list items (`<li>`) for organizing content in a list format.
+
+7. **Tables**: HTML allows the creation of tables (`<table>`) with rows (`<tr>`), columns (`<td>`), headers (`<th>`), and captions (`<caption>`) to display tabular data.
+
+8. **Forms**: HTML provides form elements (`<form>`, `<input>`, `<select>`, `<textarea>`, etc.) for creating interactive input fields to collect user data.
+
+9. **Metadata**: HTML includes metadata elements like `<meta>` for providing information about the web page, such as character encoding, viewport settings, and keywords.
+
+10. **Document Structure**: HTML defines the overall structure of a web page, including headings (`<h1>` to `<h6>`), paragraphs (`<p>`), and divisions (`<div>`), allowing content organization and layout.
+
+11. **Comments**: HTML supports comments (`<!-- comment goes here -->`) to add notes or explanations within the code without affecting the rendered output.
+
+12. **Embedded Scripts**: HTML allows the inclusion of client-side scripts such as JavaScript (`<script>`) for enhancing interactivity and functionality.
+
+13. **Inline Styles and External Stylesheets**: HTML enables styling content using inline styles (`style` attribute) or by linking to external stylesheets (`<link>` element).
+
+14. **Responsive Design**: HTML, combined with CSS, facilitates the creation of responsive web pages that adapt to different screen sizes and devices.
+
+15. **Accessibility Features**: HTML provides features such as alt attributes for images (`alt=""`), ARIA roles and attributes, and semantic markup to improve accessibility for users with disabilities.
