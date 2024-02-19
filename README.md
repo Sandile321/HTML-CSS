@@ -35,6 +35,7 @@ HTML  is capabble of fixing code errors, and missing or mispelled elements <br>
 </ul>
 
 <h1>HTML Capabilities</h1>
+`<header></header>`
   <ul>
   <li>Semantic Elements: HTML provides semantic elements like: `<header></header>`,`<footer></footer>`, `<nav>`, `<article>`, `<section>`, etc., which describe the purpose of the content, aiding accessibility and SEO.</li>
   <li>Text Formatting: HTML allows you to format text using elements like `<strong>`, `<em>`, `<u>`, `<s>`, `<sub>`, `<sup>`, etc.</li>
