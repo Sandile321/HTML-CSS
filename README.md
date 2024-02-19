@@ -1,4 +1,4 @@
-Syntax called div: <div></div>
+Syntax called div: `<div></div>`
 
 
 <i>Since Monday, 12 February 2024</i>
