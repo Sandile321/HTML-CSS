@@ -4,8 +4,10 @@ Syntax called div: `<div></div>`
 <i>Since Monday, 12 February 2024</i>
 <h2>HTML Intro:</h2>
 
-HTML is responsible for marking up the content of a website.
-HTML structure is called a declarative language.<br> HTML is simple, resilinent and robustness. HTML  is capabble of fixing code errors, and missing or mispelled elements<hr>
+HTML is responsible for marking up the content of a website. 
+HTML structure is called a declarative language.
+HTML is simple, resilinent and robustness.
+HTML  is capabble of fixing code errors, and missing or mispelled elements
 
 <h2>Text Formatting:</h2>
 
