@@ -35,7 +35,7 @@ HTML  is capabble of fixing code errors, and missing or mispelled elements <br>
 </ul>
 
 ## HTML Capabilities
-(`<header></header>Structure: HTML (HyperText Markup Language) is primarily used for structuring web documents, defining the layout and arrangement of content elements such as text, images, and multimedia.
+Structure: HTML (HyperText Markup Language) is primarily used for structuring web documents, defining the layout and arrangement of content elements such as text, images, and multimedia.
 
 Semantic Markup: It allows the use of semantic elements like <header>, <nav>, <main>, <article>, <section>, <footer>, etc., which provide meaning to the content and aid accessibility and search engine optimization.
 
@@ -54,10 +54,4 @@ Tables: HTML allows the creation of tabular data structures using the <table>, <
 Metadata: HTML supports metadata through elements like <meta> tags, allowing developers to specify information such as character encoding, page description, keywords, authorship, and viewport settings.
 
 Accessibility and SEO: HTML provides features such as alt attributes for images, semantic markup for improved accessibility, and structured data elements for search engine optimization (SEO), ensuring that web content is accessible and discoverable by both humans and search engines.
-
-
-
-
-`)                                                                                       
-    
  
