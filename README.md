@@ -37,7 +37,7 @@ HTML  is capabble of fixing code errors, and missing or mispelled elements <br>
 ## HTML Capabilities
 (`<header></header>`)
  <p> <ul> 
-  <li>Semantic Elements: HTML provides semantic elements like `<header></header>`,`<footer></footer>`, `<nav>`, `<article>`, `<section>`, etc., which describe the purpose of the content, aiding accessibility and SEO.</li>
+  `<li>Semantic Elements: HTML provides semantic elements like `<header></header>`,`<footer></footer>`, `<nav>`, `<article>`, `<section>`, etc., which describe the purpose of the content, aiding accessibility and SEO.</li>
   <li>Text Formatting: HTML allows you to format text using elements like `<strong>`, `<em>`, `<u>`, `<s>`, `<sub>`, `<sup>`, etc.</li>
   <li>Hyperlinks: HTML enables the creation of hyperlinks using the `<a>` element to link to other web pages, resources, or locations on the same page.</li>
   <li>Images and Multimedia: HTML supports embedding images (`<img>`), audio (`<audio>`), and video (`<video>`) content into web pages.</li>
@@ -52,6 +52,6 @@ HTML  is capabble of fixing code errors, and missing or mispelled elements <br>
   <li>Responsive Design: HTML, combined with CSS, facilitates the creation of responsive web pages that adapt to different screen sizes and devices.</li>
   <li>Accessibility Features: HTML provides features such as alt attributes for images (`alt=""`), ARIA roles and attributes, and semantic markup to improve accessibility for users with disabilities.</li>
   </ul>
- </p>                                                                                                                                          
+ </p>          `                                                                                                                                
     
  
