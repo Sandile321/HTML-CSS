@@ -37,19 +37,19 @@ HTML  is capabble of fixing code errors, and missing or mispelled elements <br>
 ## HTML Capabilities
 Structure: HTML (HyperText Markup Language) is primarily used for structuring web documents, defining the layout and arrangement of content elements such as text, images, and multimedia.
 
-Semantic Markup: It allows the use of semantic elements like <header>, <nav>, <main>, <article>, <section>, <footer>, etc., which provide meaning to the content and aid accessibility and search engine optimization.
+Semantic Markup: It allows the use of semantic elements like `<header>, <nav>, <main>, <article>, <section>, <footer>`, etc., which provide meaning to the content and aid accessibility and search engine optimization.
 
-Text Formatting: HTML enables text formatting through tags like <strong>, <em>, <u>, <del>, <sup>, <sub>, <b>, <i>, etc., allowing for emphasis, underlining, strikethrough, superscript, and subscript.
+Text Formatting: HTML enables text formatting through tags like `<strong>, <em>, <u>, <del>, <sup>, <sub>, <b>, <i>`, etc., allowing for emphasis, underlining, strikethrough, superscript, and subscript.
 
 Links and Anchors: HTML supports hyperlinks with the <a> tag, allowing users to navigate between different web pages or sections within the same page through anchor elements.
 
-Lists: Lists can be created using <ul> (unordered lists), <ol> (ordered lists), and <li> (list items) tags, providing options for organizing content in bullet points or numbered formats.
+Lists: Lists can be created using `<ul> (unordered lists), <ol> (ordered lists), and <li>` (list items) tags, providing options for organizing content in bullet points or numbered formats.
 
-Images and Multimedia: HTML facilitates the integration of images (<img> tag) and multimedia content (e.g., audio and video using <audio> and <video> tags), enhancing the visual and auditory aspects of web pages.
+Images and Multimedia: HTML facilitates the integration of images (`<img> tag`) and multimedia content (e.g., audio and video using `<audio>` and `<video> tags)`, enhancing the visual and auditory aspects of web pages.
 
-Forms: HTML offers form elements such as <input>, <select>, <textarea>, <button>, etc., enabling user interaction and data submission, crucial for tasks like user registration, surveys, and e-commerce.
+Forms: HTML offers form elements such as `<input>, <select>, <textarea>, <button>`, etc., enabling user interaction and data submission, crucial for tasks like user registration, surveys, and e-commerce.
 
-Tables: HTML allows the creation of tabular data structures using the <table>, <tr> (table row), <td> (table data), and <th> (table header) tags, facilitating the display and organization of data in rows and columns.
+Tables: HTML allows the creation of tabular data structures using the <table>, `<tr> (table row), <td> (table data), and <th> (table header)` tags, facilitating the display and organization of data in rows and columns.
 
 Metadata: HTML supports metadata through elements like <meta> tags, allowing developers to specify information such as character encoding, page description, keywords, authorship, and viewport settings.
 
