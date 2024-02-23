@@ -68,7 +68,13 @@ Accessibility and SEO: HTML provides features such as alt attributes for images,
 <ul>
 <li>Each link is wrapped in an element with the correct URL, and then enclosed in an "li" element to create a list of links.</li> 
 <li>To maintain the order, wrap the whole list in a "ul" element, which represents an unordered list.</li>  
-<li>Encompass the entire menu in a "nav" element to indicate that it is the site's navigation.</li>
+<li>Encompass the entire menu in a "nav" element to indicate that it is the site's navigation.</li><hr>
+
+ <li>To give the menu a visual appearance, apply CSS styling.</li> 
+ <li>Without the styling, it appears as a plain list, however, we also want screen readers and assistive devices to understand that it is the main menu.</li> 
+ <li>Now add some attributes to convey its purpose.</li> 
+ <li>Assign the role "navigation" to the "nav" element, which signifies that it represents the main navigation of the page.</li> 
+ <li>Additionally, include an "aria label" for the main menu, providing a descriptive label that can be read aloud by a screen reader.</li> 
 </ul>
 
 
