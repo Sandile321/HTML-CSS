@@ -56,6 +56,7 @@ Accessibility and SEO: HTML provides features such as alt attributes for images,
  
 <h1>HTML Navigation and Linking</h1>
 
+<h3>HTML Links</h3>
 <P>When we want to create a link, we use the A element, which stands for anchor. To do this, we need to add an href attribute with a URL enclosed in quotes. 
 This URL is where the link will take us. 
 The term href stands for Hypertext Reference, a nerdy phrase from the past. Between the opening and closing A tags, we can place text or images, or both, to make them clickable. 
