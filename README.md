@@ -33,7 +33,7 @@ HTML  is capabble of fixing code errors, and missing or mispelled elements <br>
 <li>HTML elements <em>organize content for effective presentation.</li>
 </ul>
 
-## HTML Capabilities
+<h1>HTML Capabilities</h1>
 Structure: HTML (HyperText Markup Language) is primarily used for structuring web documents, defining the layout and arrangement of content elements such as text, images, and multimedia.
 
 Semantic Markup: It allows the use of semantic elements like `<header>, <nav>, <main>, <article>, <section>, <footer>`, etc., which provide meaning to the content and aid accessibility and search engine optimization.
